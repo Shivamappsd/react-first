@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* navbar */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Sedgwick+Ave&family=Zilla+Slab+Highlight&display=swap');
+
+
+.navbar-brand{
+    font-family: 'Rock Salt', cursive;
+}
+
+.mhding{
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+.bdevloper,.Shiv{
+    font-family: 'Zilla Slab Highlight', cursive;
+}
